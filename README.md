@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orland Lashi</h1>
 <h3 align="center">AI Student in Rosenheim</h3>
 
-- 🌱 I’m currently learning **Python, Machine Learning, Supervised Learning**
+- 🌱 Computer Science student with experience in Java, Python, Pandas, and data analysis. Certified in Python Pandas. Familiar with machine learning using python libraries and proficient in VS Code development environments. Actively engaged in academic projects involving student and event datasets.
 
 - 📫 How to reach me **lashiorland8@gmail.com**
 
